@@ -1,0 +1,20 @@
+[2017-09-06 16:01:23] [info]  [ 3204] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-09-06 16:01:23] [info]  [ 3204] Deleting service...
+[2017-09-06 16:01:27] [info]  [ 3204] Delete service finished.
+[2017-09-06 16:01:27] [info]  [ 3204] Commons Daemon procrun finished
+[2017-09-06 16:12:33] [info]  [ 1708] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-09-06 16:12:33] [info]  [ 1708] Deleting service...
+[2017-09-06 16:12:34] [info]  [ 1708] Delete service finished.
+[2017-09-06 16:12:34] [info]  [ 1708] Commons Daemon procrun finished
+[2017-09-06 16:14:00] [info]  [ 4716] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-09-06 16:14:00] [info]  [ 4716] Deleting service...
+[2017-09-06 16:14:00] [error] [ 4716] The specified service does not exist as an installed service.
+[2017-09-06 16:14:00] [info]  [ 4716] Delete service finished.
+[2017-09-06 16:14:00] [error] [ 4716] Commons Daemon procrun failed with exit value: 9 (Failed to delete service)
+[2017-09-06 16:14:00] [error] [ 4716] The specified service does not exist as an installed service.
+[2017-09-06 16:20:12] [info]  [ 1692] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-09-06 16:20:12] [info]  [ 1692] Deleting service...
+[2017-09-06 16:20:12] [error] [ 1692] The specified service does not exist as an installed service.
+[2017-09-06 16:20:12] [info]  [ 1692] Delete service finished.
+[2017-09-06 16:20:12] [error] [ 1692] Commons Daemon procrun failed with exit value: 9 (Failed to delete service)
+[2017-09-06 16:20:12] [error] [ 1692] The specified service does not exist as an installed service.
